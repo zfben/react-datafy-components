@@ -1,0 +1,19 @@
+{
+  "name": "react-datafy-components",
+  "version": "0.0.1",
+  "description": "React datafy components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfben/react-datafy-components.git"
+  },
+  "author": "Ben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zfben/react-datafy-components/issues"
+  },
+  "homepage": "https://github.com/zfben/react-datafy-components"
+}
